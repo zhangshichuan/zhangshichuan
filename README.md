@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **zhangshichuan/zhangshichuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Full Stack Apprentice
+
+<!-- <img src="https://s3.ax1x.com/2020/12/22/rDKWdO.jpg" width="80" height="80" /> -->
+
+JavaScript / Vue / React / Node.js / TypeScript
+
+![zhangshichuan's github stats](https://github-readme-stats.vercel.app/api?username=zhangshichuan&show_icons=true&theme=gruvbox)
