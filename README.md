@@ -19,7 +19,3 @@ JavaScript / Vue / React / Node.js / TypeScript
 
 ![zhangshichuan's github stats](https://github-readme-stats.vercel.app/api?username=zhangshichuan&show_icons=true&theme=gruvbox)
 
-我可爱的猫咪 (妹妹 / 格瓦斯)
-
-<img src="./1.png" width="800" />
-<img src="./2.png" width="800" />
