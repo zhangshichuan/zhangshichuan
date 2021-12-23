@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Full Stack Apprentice
 
-JavaScript / Vue / React / Nest.js / TypeScript
+TypeScript / Vue / React / Nest.js / PostgreSQL
 
 ![zhangshichuan's github stats](https://github-readme-stats.vercel.app/api?username=zhangshichuan&show_icons=true&theme=gruvbox)
 
