@@ -63,7 +63,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,vue,nextjs,tailwind,prisma,postgres,docker,kubernetes,rust,sentry&perline=15" />
+    <img src="https://skillicons.dev/icons?i=ai,linux,python,flutter,nestjs,ts,nodejs,react,vue,nextjs,tailwind,prisma,postgres,docker,kubernetes,rust,sentry,pnpm,redis,remix,sqlite,solidity,threejs,vite,vscode,wasm,webpack,ubuntu,vitest,postman&perline=15" />
   </a>
 </div>
 
