@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <h1>Hi there, I'm <a href="https://github.com/zhangshichuan">Zhang Shichuan</a></h1>
+  <h1>Hi there, I'm <a href="https://github.com/zhangshichuan">Max Zhang</a></h1>
 </div>
 
 <div align="center">
@@ -59,11 +59,18 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### ⚡ Supercharged Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhangshichuan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangshichuan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="languages graph"  />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,react,vue,nextjs,tailwind,prisma,trpc,postgres,docker,kubernetes,rust,solidity,sentry,grafana&perline=15" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="AI Wave Animation" />
 </div>
 
 <br/>
