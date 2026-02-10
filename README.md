@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 工程师思维 | 产品思维 | 以终为始 | AI 驱动</h3>
+  <h3>🚀 Build with Purpose. Power with AI.</h3>
   <p>Graduated from <b>MCIT at Northern Arizona University (NAU)</b></p>
 </div>
 
